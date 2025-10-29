@@ -13,10 +13,13 @@
 ## 二.程序的介绍
 
 Data文件夹下的cnews文件夹中存储的是程序所用数据集和（Word2Vec）模型文件。
+
 cnews.train,cnews.val,cnews.test
 分别对应着训练，验证，测试
 sgns_clean.char（Word2Vec）模型文件，用于词嵌入。
-
+因为文件过大，以下给出data百度网盘链接:
+通过网盘分享的文件：data.rar
+链接: https://pan.baidu.com/s/16tpZnEEO0v4SVCT1ezs0ew 提取码: kec9.
 
 run_model文件包含全部代码，主要有以下几个代码块:
 - 配置参数
